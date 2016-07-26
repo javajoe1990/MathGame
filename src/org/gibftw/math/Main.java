@@ -17,10 +17,10 @@ public class Main {
 				System.out.print("What is 500+500?");
 		Scanner numbjoe = new Scanner(System.in);
 		int finalnumb = numbjoe.nextInt();
-		if(finalnumb==1000) { System.out.println("yes");
+		if(finalnumb==1000) { System.out.println("Correct!");
 		
 		} else {
-			System.out.println("no");
+			System.out.println("Wrong!");
 		}
 		
 				
