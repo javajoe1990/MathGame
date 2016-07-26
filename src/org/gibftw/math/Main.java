@@ -23,10 +23,10 @@ public class Main {
 			System.out.println("Wrong!");
 		}
 		
-		System.out.print("What is 500+500?");
+		System.out.print("What is 25+32?");
 		Scanner numbjoe1 = new Scanner(System.in);
 		int finalnumb1 = numbjoe1.nextInt();
-		if(finalnumb1==1000) { System.out.println("yes");
+		if(finalnumb1==57) { System.out.println("yes");
 		
 		} else {
 			System.out.println("no");
