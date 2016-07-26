@@ -11,10 +11,21 @@ public class Main {
 		} else { 
 			
 			System.out.println("Wrong!");
-			Main.main(args);
-			 
+		
 		}
 		
+				System.out.print("What is 500+500?");
+		Scanner numbjoe = new Scanner(System.in);
+		int finalnumb = numbjoe.nextInt();
+		if(finalnumb==1000) { System.out.println("yes");
+		
+		} else {
+			System.out.println("no");
+		}
+		
+				
+	}
+}
 		
 		
 	}
